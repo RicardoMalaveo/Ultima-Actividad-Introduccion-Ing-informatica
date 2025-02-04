@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Menu.unity
     guid: 770375ed5e949f24b82fb2893350edaa
   - enabled: 1
-    path: Assets/Scenes/Escena1.unity
+    path: Assets/Scenes/Kowloon.unity
     guid: 8f1955e62c479ee4f828b342e91ae83f
   - enabled: 1
     path: Assets/Scenes/Sea.unity

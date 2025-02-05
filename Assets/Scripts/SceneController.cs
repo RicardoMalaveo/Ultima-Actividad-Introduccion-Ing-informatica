@@ -4,19 +4,18 @@ using UnityEngine.SceneManagement;
 
 public class SceneController : MonoBehaviour
 {
-    public void CargarMenu()
+    public void LoadMenu()
     {
         SceneManager.LoadScene(0);
     }
 
-    public void CargarPartida()
+    public void Play()
     {
         SceneManager.LoadScene(1);
     }
 
-    public void SalirJuego()
+    public void ExitGame()
     {
-        Debug.Log("Saliendo del juego");
         Application.Quit();
     }
 }
